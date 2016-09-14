@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;FactoryPattern.UFOenemyShip.java&apos; to &apos;UFOEnemyShip.java&apos;&#x0A;- Original project: &apos;FactoryDesignPattern&apos;&#x0A;- Original element: &apos;FactoryPattern.UFOenemyShip.java&apos;&#x0A;- Renamed element: &apos;FactoryPattern.UFOEnemyShip.java&apos;" description="Rename compilation unit &apos;UFOenemyShip.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;FactoryPattern{UFOenemyShip.java" name="UFOEnemyShip.java" references="false" stamp="1473880045023" version="1.0"/>
+</session>
