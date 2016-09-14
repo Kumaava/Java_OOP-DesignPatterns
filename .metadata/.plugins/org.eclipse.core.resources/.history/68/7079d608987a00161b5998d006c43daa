@@ -1,0 +1,10 @@
+package OOP_concept.src.extention;
+
+public class Giraffe {
+
+	public void setName(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

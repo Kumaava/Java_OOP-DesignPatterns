@@ -1,0 +1,9 @@
+package OOP_concept.src.extention;
+public class Giraffe extends Creature{
+
+		public void setName(String newName) {
+			// TODO Auto-generated method stub
+			
+		}
+	}
+
