@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=Ic7Ibl9I5CQ&index=4&list=PL8IPNFFeqgJPzHzPtJGxgb
 http://docs.scala-lang.org/tutorials/tour/classes
 
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
-Push to from Local to Github : 
+Push from Local to Github : 
  git init
  git add .
  git commit -m "MY Commit"
